@@ -1,0 +1,17 @@
+
+.headshot {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+p {
+    margin: 10px 0px;
+}
+
+
+th {
+    background-color: darkgray;
+    color: black;
+}
+
